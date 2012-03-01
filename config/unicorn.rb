@@ -1,6 +1,6 @@
 # [JS] Modify this part
-working_directory "/var/web/m/"
-app_path = "/var/web/m"
+working_directory "/var/web_test/m/"
+app_path = "/var/web_test/m"
 
 
 # This loads the application in the master process before forking
